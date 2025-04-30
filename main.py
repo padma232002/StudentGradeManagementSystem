@@ -179,4 +179,4 @@ def calculate_grade(total):
 
 
 if __name__ == '__main__':
-    main.run(debug=True
+    main.run(debug=True)
